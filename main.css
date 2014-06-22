@@ -1,0 +1,13 @@
+.table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.clear-reservation {
+  cursor: pointer;
+}
+
+#login-buttons {
+  float: right;
+  margin-top: .5em;
+}
